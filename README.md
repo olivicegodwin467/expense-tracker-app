@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A simple web application built with React that helps users track their daily expenses. The Expense Tracker allows users to add, display, filter, and calculate their expenses while saving data locally using localStorage or IndexedDB.
+A simple web application built with React that helps users track their daily expenses. The Expense Tracker allows users to add, display, filter, and calculate their expenses while saving data locally using localStorage.
 
 ## Features
 
